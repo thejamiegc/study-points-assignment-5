@@ -14,3 +14,11 @@ Study Point Assignment # 5: 10 study points for all five exercises + Questionnai
 #### 👉 If you need help 👈
 If you need help, if you want to suggets improvements or if you have an urge to contribute to this tutorial. email me: 
 <tm@cphbusiness.dk>.
+
+
+This repo is a copy of the template repo at [Tine-m/docker-ci-intro](https://github.com/Tine-m/docker-ci-intro)
+
+#### 👉 Work those issues 👈
+
+<img width="100" align="left" alt="image" src="https://user-images.githubusercontent.com/155492/219313640-1328aefb-7695-41d2-bbef-5c5ffe6ab079.png"> This repo has some issues copied over from the template. Simply work the issues.<br clear="both">
+
