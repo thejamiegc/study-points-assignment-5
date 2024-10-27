@@ -1,0 +1,3 @@
+[template]
+	repo = Tine-m/docker-ci-intro
+	issue-label = template
